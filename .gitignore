@@ -1,0 +1,6 @@
+# Project exclude paths
+/demo-account-service/target/
+/demo-business-service/target/
+/demo-order-service/target/
+/demo-storage-service/target/
+/seata-common-service/target/
