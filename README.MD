@@ -1,5 +1,7 @@
 **此项目有5个模块，分别是**
 
+记得执行seata-demo.sql中的脚本哦~
+
 - `demo-business-service`：业务服务
 - `demo-storage-service`：库存服务
 - `demo-order-service`：订单服务

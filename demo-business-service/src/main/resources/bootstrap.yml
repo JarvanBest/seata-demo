@@ -8,7 +8,7 @@ spring:
     allow-bean-definition-overriding: true
   cloud:
     nacos:
-      server-addr: 192.168.1.180:8848
+      server-addr: 【改成你的地址】:8848
       username: nacos
       password: nacos
 
